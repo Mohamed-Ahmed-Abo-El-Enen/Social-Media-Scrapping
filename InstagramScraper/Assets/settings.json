@@ -1,0 +1,19 @@
+{
+  "INSTAGRAM_URL":
+  {
+    "URL": "https://www.instagram.com"
+  },
+  "INSTAGRAM_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  },
+  "INSTAGRAM_POST_SETTING":
+  {
+    "MAX_FILES_PER_POST": 1,
+    "FILE_EXTENSION": ".jpg",
+    "SEARCH_FILE": "\\Assets\\searchKeyword.txt",
+    "REPLY_FILE": "\\Assets\\replyKeyword.txt"
+  }
+}

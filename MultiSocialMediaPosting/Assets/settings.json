@@ -1,0 +1,46 @@
+{
+  "INSTAGRAM_URL":
+  {
+    "URL": "https://www.instagram.com"
+  },
+  "INSTAGRAM_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  },
+
+  "PINTEREST":
+  {
+    "URL": "https://www.Pinterest.com"
+  },
+  "PINTEREST_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  },
+
+
+  "FACEBOOK":
+  {
+    "URL": "https://www.Facebook.com"
+  },
+  "FACEBOOK_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  },
+
+  "TWITTER":
+  {
+    "URL": "https://www.Twitter.com"
+  },
+  "TWITTER_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  }
+}

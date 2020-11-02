@@ -1,0 +1,19 @@
+{
+  "TWITTER_URL":
+  {
+    "URL": "https://twitter.com"
+  },
+  "TWITTER_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": ""
+  },
+  "TWITTER_TWEET_SETTING":
+  {
+    "MAX_FILES_PER_TWEET": 1,
+    "FILE_EXTENSION": ".jpg",
+    "SEARCH_FILE": "\\Assets\\searchKeyword.txt",
+    "REPLY_FILE": "\\Assets\\replyKeyword.txt"
+  }
+}

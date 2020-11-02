@@ -1,0 +1,13 @@
+{
+  "INSTAGRAM_URL":
+  {
+    "URL": "https://www.instagram.com"
+  },
+  "INSTAGRAM_ACCOUNT_INFO":
+  {
+    "EMAIL": "",
+    "USERNAME": "",
+    "PASSWORD": "",
+    "FOLLOWING_ACCOUNTS": "Following_Accounts.csv"
+  }
+}
